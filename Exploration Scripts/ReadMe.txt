@@ -13,3 +13,6 @@ https://docs.microsoft.com/en-us/powershell/scripting/getting-started/cookbooks/
 
 https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/get-date?view=powershell-6
 
+
+###### For File Operations
+https://kevinmarquette.github.io/2017-03-18-Powershell-reading-and-saving-data-to-files/
