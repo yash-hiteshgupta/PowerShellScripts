@@ -16,3 +16,7 @@ https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/
 
 ###### For File Operations
 https://kevinmarquette.github.io/2017-03-18-Powershell-reading-and-saving-data-to-files/
+
+#Set-ExecutionPolicy Unrestricted
+#Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
