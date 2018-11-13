@@ -1,6 +1,5 @@
 ﻿
-# Created by: Shawn Brink
-# http://www.tenforums.com/
+# Created by: Hitesh Gupta
 # Tutorial: http://www.tenforums.com/tutorials/3430-file-explorer-title-bar-display-full-path-windows-10-a.html
 
 
